@@ -1,0 +1,13 @@
+{
+    "username": "USERNAME HERE",
+    "password": "PASSWORD HERE",
+    "token": "TOKEN HERE",
+    "prefix": "PREFIX HERE",
+    "api_key": "API KEY HERE",
+    "secret": "SECRET HERE",
+    "aid": "AID HERE",
+    "auth key": "AUTH KEY HERE",
+    "embed_pic": "CUSTOM EMBED PICTURE HERE",
+    "server_id": "SERVER ID HERE",
+    "verified_role_id": "VERIFIED ROLE ID HERE"
+}
